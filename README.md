@@ -1,1 +1,1 @@
-# tft_st7735_esp32_dev_c
+# Simple example project for a combination of TFT ST7735, ESP32 dev c, MPU6050
